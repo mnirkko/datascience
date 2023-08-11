@@ -14,7 +14,7 @@ This repository contains all the notebooks and scripts used to complete the fina
 
 **Technical skills acquired**: Data collection (API/web scraping), data wrangling (numpy/pandas), exploratory data analysis (matplotlib/SQL), interactive visualisation (folium/plotly dash), predictive analysis (classification using LogReg, SVM, decision tree, KNN)
 
-![A successful Falcon 9 landing.](https://github.com/mnirkko/datascience/assets/6942556/1727f30d-174d-4337-9186-d3a9b8280f44){ width="800" height="600" style="display: block; margin: 0 auto" }
+![A successful Falcon 9 landing.](https://github.com/mnirkko/datascience/assets/6942556/1727f30d-174d-4337-9186-d3a9b8280f44)
 
 ### Executive summary
 * In this project, criteria for successful booster landings of SpaceX launches were evaluated. The relevant features that were investigated included payload mass, launch site and orbit.
@@ -23,7 +23,7 @@ This repository contains all the notebooks and scripts used to complete the fina
 * Finally, a set of Machine Learning (ML) algorithms was used to predict the success or failure of future launches. For this, the dataset was split into train and test data.
 * We found that the percentage of successful launches increased significantly with time. Certain launch sites and orbits had a higher success rate, as did missions with higher payloads. Predictive modeling yielded 83% accuracy for predicting successful landings.
 
-![Success rate of Falcon 9 launches in the past decade](https://github.com/mnirkko/datascience/assets/6942556/2c16bf9a-659c-4735-b314-2d493ee73868#center)
+![Success rate of Falcon 9 launches in the past decade](https://github.com/mnirkko/datascience/assets/6942556/2c16bf9a-659c-4735-b314-2d493ee73868)
 
 ### Methodology
 * Data collection -- Loading data via API and web scraping, decoding the data and converting it to DataFrames
@@ -32,13 +32,13 @@ This repository contains all the notebooks and scripts used to complete the fina
 * Interactive visual analytics -- Enabling potential stakeholders to navigate the data using Folium and Plotly Dash
 * Predictive analysis using classification models -- Building the dataset, standardising the data, splitting into training/test datasets, tuning and optimizing models using training data, evaluating prediction accuracy using test data, comparing results.
 
-![Flowchart detailing the methodology used](https://github.com/mnirkko/datascience/assets/6942556/c35c8c7c-77a0-4090-892d-cb54e8b4e192#center)
+![Flowchart detailing the methodology used](https://github.com/mnirkko/datascience/assets/6942556/c35c8c7c-77a0-4090-892d-cb54e8b4e192)
 
 ### Results
 * Exploratory data analysis showed that successful launches are correlated with the flight number (better performance in recent years), the payload (better performance with higher mass), and to some extent with the launch site and orbit used.
 * Interactive analytics showed that the launch sites are close to the coastline, and further away from more densely populated areas (roads, cities etc.) clearly to reduce collateral damages in the event of a failed launch.
 * Predictive analysis showed decent results for logistic regression (LogReg), support vector machines (SVM), and k nearest neighbors (KNN). For these methods, the classifier correctly predicted the outcome of a launch 83% of the time. The main issue remaining are false positives, as indicated by the confusion matrix.
 
-![Classification accuracy using different ML techniques](https://github.com/mnirkko/datascience/assets/6942556/6695f459-11c0-4a5d-967e-2b34b720a291#center)
+![Classification accuracy using different ML techniques](https://github.com/mnirkko/datascience/assets/6942556/6695f459-11c0-4a5d-967e-2b34b720a291)
 
-![Confusion matrix for final prediction on test dataset](https://github.com/mnirkko/datascience/assets/6942556/939f384b-fd2e-4e6c-9e81-fdbd1107eac6#center)
+![Confusion matrix for final prediction on test dataset](https://github.com/mnirkko/datascience/assets/6942556/939f384b-fd2e-4e6c-9e81-fdbd1107eac6)
