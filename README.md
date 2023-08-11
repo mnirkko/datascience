@@ -8,7 +8,11 @@ This repository contains all the notebooks and scripts used to complete the fina
 > Learners started with an orientation of Data Science and its Methodology, became familiar and used a variety of data science tools, learned Python and SQL, performed Data Visualization and Analysis, and created Machine Learning models. 
 > In the process they completed several labs and assignments on the cloud including a Capstone Project at the end to apply and demonstrate their knowledge and skills.
 
+**Topics covered**: Data Science, Machine Learning
+
 **Programming languages used**: Python, SQL 
+
+**Technical skills acquired**: Data collection (API/web scraping), data wrangling (numpy/pandas), exploratory data analysis (matplotlib/SQL), interactive visualisation (folium/plotly dash), predictive analysis (classification using LogReg, SVM, decision tree, KNN)
 
 ![image](https://github.com/mnirkko/datascience/assets/6942556/1727f30d-174d-4337-9186-d3a9b8280f44)
 
