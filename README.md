@@ -13,7 +13,7 @@ In this Professional Certificate, learners developed and honed hands-on skills i
 * We found that the percentage of successful launches increased significantly with time. Certain launch sites and orbits had a higher success rate, as did missions with higher payloads. Predictive modeling yielded 83% accuracy for predicting successful landings.
 
 <p align="center">
-![image](https://github.com/mnirkko/datascience/assets/6942556/2c16bf9a-659c-4735-b314-2d493ee73868)
+[image](https://github.com/mnirkko/datascience/assets/6942556/2c16bf9a-659c-4735-b314-2d493ee73868)
 </p>
 
 ### Methodology
@@ -24,7 +24,7 @@ In this Professional Certificate, learners developed and honed hands-on skills i
 * Predictive analysis using classification models -- Building the dataset, standardising the data, splitting into training/test datasets, tuning and optimizing models using training data, evaluating prediction accuracy using test data, comparing results.
 
 <p align="center">
-![image](https://github.com/mnirkko/datascience/assets/6942556/c35c8c7c-77a0-4090-892d-cb54e8b4e192)
+[image](https://github.com/mnirkko/datascience/assets/6942556/c35c8c7c-77a0-4090-892d-cb54e8b4e192)
 </p>
 
 ### Results
@@ -33,9 +33,9 @@ In this Professional Certificate, learners developed and honed hands-on skills i
 * Predictive analysis showed decent results for logistic regression (LogReg), support vector machines (SVM), and k nearest neighbors (KNN). For these methods, the classifier correctly predicted the outcome of a launch 83% of the time. The main issue remaining are false positives, as indicated by the confusion matrix.
 
 <p align="center">
-![image](https://github.com/mnirkko/datascience/assets/6942556/6695f459-11c0-4a5d-967e-2b34b720a291)
+[image](https://github.com/mnirkko/datascience/assets/6942556/6695f459-11c0-4a5d-967e-2b34b720a291)
 </p>
 
 <p align="center">
-![image](https://github.com/mnirkko/datascience/assets/6942556/939f384b-fd2e-4e6c-9e81-fdbd1107eac6)
+[image](https://github.com/mnirkko/datascience/assets/6942556/939f384b-fd2e-4e6c-9e81-fdbd1107eac6)
 </p>
