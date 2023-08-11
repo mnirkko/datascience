@@ -2,8 +2,14 @@
 
 Completed by Martti Nirkko on 5th December, 2022.
 
-This repository contains all the notebooks and scripts used to complete the final data science project of the Coursera module "IBM Data Science".
-In this Professional Certificate, learners developed and honed hands-on skills in Data Science and Machine Learning.
+This repository contains all the notebooks and scripts used to complete the final data science project of the Coursera module **IBM Data Science**.
+> In this Professional Certificate, learners developed and honed hands-on skills in Data Science and Machine Learning.
+> Learners started with an orientation of Data Science and its Methodology, became familiar and used a variety of data science tools, learned Python and SQL, performed Data Visualization and Analysis, and created Machine Learning models. 
+> In the process they completed several labs and assignments on the cloud including a Capstone Project at the end to apply and demonstrate their knowledge and skills.
+
+**Programming languages used**: Python, SQL 
+
+![image](https://github.com/mnirkko/datascience/assets/6942556/1727f30d-174d-4337-9186-d3a9b8280f44)
 
 ### Executive summary
 * In this project, criteria for successful booster landings of SpaceX launches were evaluated. The relevant features that were investigated included payload mass, launch site and orbit.
