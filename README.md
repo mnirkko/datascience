@@ -21,11 +21,13 @@ In this Professional Certificate, learners developed and honed hands-on skills i
 * Interactive visual analytics -- Enabling potential stakeholders to navigate the data using Folium and Plotly Dash
 * Predictive analysis using classification models -- Building the dataset, standardising the data, splitting into training/test datasets, tuning and optimizing models using training data, evaluating prediction accuracy using test data, comparing results.
 
-![image](https://github.com/mnirkko/datascience/assets/6942556/3333b0ec-6923-412f-b201-599023281ab8)
+![image](https://github.com/mnirkko/datascience/assets/6942556/c35c8c7c-77a0-4090-892d-cb54e8b4e192)
 
 ### Results
 * Exploratory data analysis showed that successful launches are correlated with the flight number (better performance in recent years), the payload (better performance with higher mass), and to some extent with the launch site and orbit used.
 * Interactive analytics showed that the launch sites are close to the coastline, and further away from more densely populated areas (roads, cities etc.) clearly to reduce collateral damages in the event of a failed launch.
 * Predictive analysis showed decent results for logistic regression (LogReg), support vector machines (SVM), and k nearest neighbors (KNN). For these methods, the classifier correctly predicted the outcome of a launch 83% of the time. The main issue remaining are false positives, as indicated by the confusion matrix.
+
+![image](https://github.com/mnirkko/datascience/assets/6942556/6695f459-11c0-4a5d-967e-2b34b720a291)
 
 ![image](https://github.com/mnirkko/datascience/assets/6942556/939f384b-fd2e-4e6c-9e81-fdbd1107eac6)
