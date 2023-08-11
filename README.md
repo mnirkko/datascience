@@ -14,7 +14,7 @@ This repository contains all the notebooks and scripts used to complete the fina
 
 **Technical skills acquired**: Data collection (API/web scraping), data wrangling (numpy/pandas), exploratory data analysis (matplotlib/SQL), interactive visualisation (folium/plotly dash), predictive analysis (classification using LogReg, SVM, decision tree, KNN)
 
-![A successful Falcon 9 landing.](https://github.com/mnirkko/datascience/assets/6942556/1727f30d-174d-4337-9186-d3a9b8280f44#center)
+![A successful Falcon 9 landing.](https://github.com/mnirkko/datascience/assets/6942556/1727f30d-174d-4337-9186-d3a9b8280f44){ width="800" height="600" style="display: block; margin: 0 auto" }
 
 ### Executive summary
 * In this project, criteria for successful booster landings of SpaceX launches were evaluated. The relevant features that were investigated included payload mass, launch site and orbit.
